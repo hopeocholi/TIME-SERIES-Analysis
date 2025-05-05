@@ -81,7 +81,7 @@ I am presenting my results in the stargazer table which shows the intercept of -
 of 0.00002.
 
 
-
+<img src="https://i.imgur.com/DUWxNMt.png" height="65%" width="65%" alt="Image Analysis Dataflow"/>
 Table 4: Presenting the results in a (stargazer) table
 
 
@@ -93,10 +93,10 @@ heteroskedasticity and autocorrelation correction
 (Intercept) Delt(EURUSD) VIX
 -0.00001 0.00002
 
+   
+   
 
-## 📸 Network Setup Diagram
-
-![Network Diagram] (https://imgur.com/a/z7DXaVR)
+<img src="https://i.imgur.com/NoulwLP.png" height="65%" width="65%" alt="Image Analysis Dataflow"/>
 
 Figure 1: Model chart of the gold price (GOLDPM)
 Figure 1 shows the impact of gold price and the movement in frequency. Following the model, we investigated that GOLDPM had a bearish price movement over the years which indicates an
