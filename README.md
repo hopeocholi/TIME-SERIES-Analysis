@@ -94,7 +94,9 @@ heteroskedasticity and autocorrelation correction
 -0.00001 0.00002
 
 
+## 📸 Network Setup Diagram
 
+![Network Diagram] (https://imgur.com/a/z7DXaVR)
 
 Figure 1: Model chart of the gold price (GOLDPM)
 Figure 1 shows the impact of gold price and the movement in frequency. Following the model, we investigated that GOLDPM had a bearish price movement over the years which indicates an
